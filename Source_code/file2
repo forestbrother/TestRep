@@ -10,6 +10,9 @@ from rebase
 from master
 55555
 66666 form resolve conflict
+77777
+88888
+121212 merge
 77777 from master2
 88888 from master2
 101010 rebase_test
