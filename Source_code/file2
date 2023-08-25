@@ -10,11 +10,12 @@ from rebase
 from master
 55555
 66666 form resolve conflict
-77777
-88888
+77777 from merge_test
+88888 from merge_test
 121212 merge
 111111 master
 131313 master
 151515 master
 161616 master
-202020 merge_test
+202020 from merge_test
+171717 from master
