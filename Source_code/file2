@@ -10,8 +10,8 @@ from rebase
 from master
 55555
 66666 form resolve conflict
-77777
-88888
+77777 from merge_test
+88888 from merge_test
 121212 merge
 77777 from master2
 88888 from master2
@@ -20,6 +20,9 @@ from master
 131313 master
 151515 master
 161616 master
+202020 from merge_test
+171717 from master
+232323 merge_test
 202020 merge_test
 171717 merge from master
 212121 merge from rebase_test
