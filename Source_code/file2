@@ -16,6 +16,9 @@ from master
 77777 from master2
 88888 from master2
 101010 rebase_test
+77777 from merge_test
+88888 from merge_test
+121212 merge
 111111 master
 131313 master
 151515 master
@@ -28,3 +31,7 @@ from master
 171717 merge from master
 212121 merge from rebase_test
 222222 rebase_test
+202020 from merge_test
+171717 from master
+232323 merge_test
+242424 merge_test
